@@ -11,4 +11,6 @@ node -v
 
 sudo apt install npm
 
+node install
+
 node filename.js
