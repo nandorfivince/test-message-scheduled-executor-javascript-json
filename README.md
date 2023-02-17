@@ -9,6 +9,6 @@ sudo apt install nodejs
 
 node -v
 
-sudo apt install npm
+sudo apt install npm url https timers random
 
 node filename.js
